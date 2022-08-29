@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emojibuilder/static/css/main.7cbee326.css",
+    "main.js": "/emojibuilder/static/js/main.eb0e5a10.js",
+    "index.html": "/emojibuilder/index.html",
+    "main.7cbee326.css.map": "/emojibuilder/static/css/main.7cbee326.css.map",
+    "main.eb0e5a10.js.map": "/emojibuilder/static/js/main.eb0e5a10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cbee326.css",
+    "static/js/main.eb0e5a10.js"
+  ]
+}
